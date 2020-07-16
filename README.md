@@ -1,9 +1,11 @@
 ### Hi there, I'm Mohan 👋
 
-- Currently working on React, Redux and Nextjs
-- Exploring Kotlin, Micro-frontends 
-- Wanted to dive deep into Vue 3/Preact codebase, Angular, Webpack, Rollup
-- Wish to explore Rust lang
+I am UI/Frontend dev @ThoughtWorks
+
+- Currently working on React, Redux and Nextjs and exploring Vue3, Micro-frontends 
+- My fav languages - Kotlin, Rust
+
+
 
 
 <!--

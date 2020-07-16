@@ -2,7 +2,7 @@
 
 I am UI/Frontend dev @ThoughtWorks
 
-- Currently working on React, Redux and Nextjs and exploring Vue3, Micro-frontends 
+- Currently working on React, Redux, Nextjs and exploring Vue3, Micro-frontends 
 - My fav languages - Kotlin, Rust
 
 

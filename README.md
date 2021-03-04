@@ -1,9 +1,6 @@
 ### Hi there, I'm Mohan 👋
 
-I am UI/Frontend dev @ThoughtWorks
-
-- Currently working on React, Redux, Nextjs
-- Exploring micro frontends 
+I am UI Developer @ThoughtWorks
 
 
 <!--

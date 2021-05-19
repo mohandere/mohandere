@@ -1,7 +1,4 @@
-### Hi there, I'm Mohan 👋
-
-I am UI Developer @ThoughtWorks
-
+### Hi there 👋
 
 <!--
 **mohandere/mohandere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

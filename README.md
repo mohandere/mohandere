@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name's Mohan, I am UI Developer at /thoughtworks. I like to try new things, learn and share.
+
+Get in touch via [Twitter](https://twitter.com/@mohandere) or email at deremohan01@gmail.com
+
+
 <!--
 **mohandere/mohandere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
